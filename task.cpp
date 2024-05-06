@@ -309,8 +309,7 @@ int main() {
 
 
 /*
-as for the time complexity of the two algorithms:
-they both have nested for loops for inserting the items into the array matrices
-,making the time complexity for both of them O(n)
+As for the time complexity of the two algorithms:
+ the time complexity for both of them is O(n)
 but the iterative approach can be faster due to not needing functions calls.    
 */
